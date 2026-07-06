@@ -2,6 +2,8 @@
 
 # QuizArena — Battle Royale de culture générale
 
+> Étudiant : **Adham Marrakchi** ([@AdaMakchi](https://github.com/AdaMakchi))
+
 Projet multijoueur (2 à 8 joueurs) réalisé d'après le [cahier des charges](docs/Cahier_des_charges_QuizArena.docx) :
 un quiz à élimination progressive, en manches synchronisées de 15 secondes,
 avec un frontend **JavaFX**, une API REST **PHP 8** et une base **MySQL 8 / MariaDB**.
